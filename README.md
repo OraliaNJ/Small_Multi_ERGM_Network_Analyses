@@ -1,1 +1,1 @@
-This work is framed in an application with static and small Exponential Random Graph Models for multi-layer complex networks. 
+This work as framed in an application of static and small Exponential Random Graph Models complex networks in multiple layers. This research examines the application of small networks (50,000 population) for analyzing global commerce and conducting a comparative graph structure of the tariffs and importing multi-layer networks.
